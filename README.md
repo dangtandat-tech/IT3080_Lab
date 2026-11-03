@@ -17,3 +17,8 @@ python main.py
 ```bash
 python -m unittest discover -s tests -v
 ```
+
+## Báo cáo thực hành
+
+- [Báo cáo C5.4 - Git & GitHub Release Flow](docs/IT3180_BaoCao_C5.4.pdf)
+- [Trả lời câu hỏi thảo luận](docs/answers-lab04.md)
