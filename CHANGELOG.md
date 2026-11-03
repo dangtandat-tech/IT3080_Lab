@@ -5,6 +5,10 @@ Dự án tuân theo [Semantic Versioning](https://semver.org/).
 
 ## [Unreleased]
 
+### Added
+
+- Thêm `Cart.sort_by_title()` và `Cart.sort_by_cost()` để sắp xếp giỏ hàng.
+
 ## [1.0.0] - 2026-11-03
 
 ### Added
